@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "dmitry mern course",
+  "mongoUri": "mongodb+srv://mernstack:salo15@cluster0.cezf9.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
